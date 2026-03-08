@@ -1,11 +1,14 @@
-<img width="377" height="358" alt="imagen" src="https://github.com/user-attachments/assets/76c1c026-6dda-4ab4-a062-15af286ef2a4" />
+
  # The best Code editor
- opensource suppor to 20 langs 
+ opensource support to 20 langs 
+ And terminal
+ <img width="390" height="360" alt="icon" src="https://github.com/user-attachments/assets/0fcbed4e-a34c-4f13-b9fd-246088628ec8" />
  # Especialitiment 
  Kotlin
  swith
  java
  c#
  c++
+
  c
  And Assembly
